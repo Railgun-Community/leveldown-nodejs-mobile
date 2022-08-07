@@ -26,9 +26,9 @@
   },
   "dependencies": {
     "bindings": "1.5.0",
-    "abstract-leveldown": "^7.0.0",
+    "abstract-leveldown": "^7.2.0",
     "napi-macros": "~2.0.0",
-    "node-gyp-build": "~4.2.1"
+    "node-gyp-build": "^4.3.0"
   },
   "devDependencies": {
     "async-each": "^1.0.3",
@@ -42,11 +42,11 @@
     "hallmark": "^3.0.0",
     "level-concat-iterator": "^3.0.0",
     "mkfiletree": "^2.0.0",
-    "node-gyp": "^7.1.2",
+    "node-gyp": "^8.4.1",
     "nyc": "^15.0.0",
-    "prebuildify": "^4.1.0",
+    "prebuildify": "^5.0.0",
     "prebuildify-ci": "^1.0.4",
-    "prebuildify-cross": "^4.0.1",
+    "prebuildify-cross": "^5.0.0",
     "readfiletree": "^1.0.0",
     "rimraf": "^3.0.0",
     "standard": "^16.0.3",
@@ -56,9 +56,9 @@
   "gypfile": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/staltz/leveldown-nodejs-mobile.git"
+    "url": "https://github.com/Railgun-Community/leveldown-nodejs-mobile.git"
   },
-  "homepage": "https://github.com/staltz/leveldown-nodejs-mobile",
+  "homepage": "https://github.com/Railgun-Community/leveldown-nodejs-mobile",
   "keywords": [
     "leveldb",
     "level"
